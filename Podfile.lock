@@ -1,0 +1,16 @@
+PODS:
+  - CCNetworkingg (0.1.0)
+
+DEPENDENCIES:
+  - CCNetworkingg (from `Lib/CCNetworkingg`)
+
+EXTERNAL SOURCES:
+  CCNetworkingg:
+    :path: Lib/CCNetworkingg
+
+SPEC CHECKSUMS:
+  CCNetworkingg: 1f7c9fd512ce3d51212fb17675811e29d3f19513
+
+PODFILE CHECKSUM: d4d18142f70682a82e30e2322122361abecc4360
+
+COCOAPODS: 1.8.1
